@@ -1,0 +1,6 @@
+we will multiply two numbers
+a=3;
+b=4;
+System.out.println("the multiplication of two numbers is "+(a*b));
+
+thus we found out the product of two numbers.
